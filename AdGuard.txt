@@ -2,7 +2,7 @@
 ! Title: a dove is dumb
 ! Description: These IPs will only block the telemetry check of Adobe apps
 ! Homepage: https://github.com/BakaTekku/a-dove-is-dumb
-! Last modified: 2025-03-27 21:37 UTC
+! Last modified: 2025-03-29 00:47 UTC
 ! Pop up window? Report at:
 ! https://github.com/BakaTekku/a-dove-is-dumb/issues
 !
